@@ -1,10 +1,10 @@
 # stanCode_SC101: Programming Abstraction
 
-##  About Me
+## 👨‍💻 About Me
 
 In May 2023, I decided to pursue a career in programming, exploring the integration between the fields of accounting and programming, and I am currently navigating this path.
 
-##  My Journey
+## 📆 My Journey
 
 This repo is all about my coding adventure and the progress I've made so far. Within, I've tackled seven assignments, each honing my abilities in Fundamental Programming Logic, Object-Oriented Programming, Data Structures (lists, dictionaries, tuples), Web Crawling via BeautifulSoup, Recursion, and Linked Lists.
 
