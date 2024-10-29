@@ -1,1 +1,1 @@
-# stanCode_SC101
+# stanCode_SC101: Programming Abstraction
