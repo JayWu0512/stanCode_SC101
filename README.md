@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-In May 2023, I decided to pursue a career in programming, exploring the integration between the fields of accounting and programming, and I am currently navigating this path.
+In Oct 2023, I decided to pursue a career in programming, exploring the integration between the fields of accounting and programming, and I am currently navigating this path.
 
 ## 📆 My Journey
 
